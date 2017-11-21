@@ -1,4 +1,4 @@
-FROM strongloop/strong-pm
+FROM strongloop/strong-pm:node-4
 
 MAINTAINER M.M <tech@protecmobile.es>
 
